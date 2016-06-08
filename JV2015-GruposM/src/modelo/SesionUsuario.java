@@ -11,9 +11,10 @@ import util.Fecha;
  *  @since: prototipo1.0
  *  @source: SesionUsuario.java 
  *  @version: 2.0 - 11/04/2016 
- *  @author: ajp
+ *  @author: ajps
+ *  
  */
-
+// prueba de pull request
 public class SesionUsuario {
 	
 	// Atributos	
